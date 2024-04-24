@@ -49,5 +49,12 @@ If minOut is not satisifed tx will revert on uniswap router
 If minOut is set to 0, there is a validation of price against oracle, event is emitted depending if price is fair or not
 
 
+```
+
+
+## Swapper
+
+```
+Swapper address on sepolia: 0xBa2C7AB80B0A2E79aA04e9F29466409f5CEd1C1A
 
 ```
